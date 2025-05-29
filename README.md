@@ -25,8 +25,10 @@
         // ==UserScript==
         // @name         API's Supporter
         // @version      dynamic
-        // @description  helps in working with api's, instruction: https://diginetica.youtrack.cloud/articles/TS-A-3275751442/Расширение-для-работы-с-API
+        // @description  helps in working with api's, instruction: https://github.com/vovapipko/api-supporter
         // @match        https://*.diginetica.net/*
+        // @match        https://*.anyplatform.ru/*
+        // @match        https://*.time.tbank.ru/*
         // @icon         https://github.com/vovapipko/api-supporter/raw/master/img/favicon.ico
         // @require      https://github.com/vovapipko/api-supporter/raw/master/bundle.js
         // @downloadURL  https://github.com/vovapipko/api-supporter/raw/master/bundle.js
@@ -41,8 +43,10 @@
         // ==UserScript==
         // @name         API's Supporter
         // @version      dynamic
-        // @description  helps in working with api's, instruction: https://diginetica.youtrack.cloud/articles/TS-A-3275751442/Расширение-для-работы-с-API
+        // @description  helps in working with api's, instruction: https://github.com/vovapipko/api-supporter
         // @match        https://*.diginetica.net/*
+        // @match        https://*.anyplatform.ru/*
+        // @match        https://*.time.tbank.ru/*
         // @icon         https://github.com/vovapipko/api-supporter/raw/master/img/favicon.ico
         // @require      https://github.com/vovapipko/api-supporter/raw/develop/bundle.js
         // @downloadURL  https://github.com/vovapipko/api-supporter/raw/develop/bundle.js
