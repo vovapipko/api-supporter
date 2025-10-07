@@ -1,4 +1,4 @@
-/* 29-05-2025 08:45 */
+/* 07-10-2025 17:45 */
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -252,7 +252,7 @@
   /* harmony export */   "CookieName": () => (/* binding */ CookieName),
   /* harmony export */   "CookieHost": () => (/* binding */ CookieHost)
   /* harmony export */ });
-  var rootElement=document.querySelector("body");var Timeout={APPLY_BUTTON:6e3,ERROR_MESSAGE:3e3};var KeyCode={ENTER:13};var RadioTemplateOption={TYPE:"type",STRATEGY:"strategy",EXTRA_STRATEGY:"extra-strategy"};var STRATEGIES=["simple","simple_strict","advanced","advanced_xname","vectors","vectors_extended","vectors_strict","vectors_advanced","multi_text"];var EXTRA_STRATEGIES=["","zero_queries","zero_queries_predictor","zero_queries_extended","zero_queries_extended_predictor"];var SORT_TYPES=["qa","search","debug"];var AUTOCOMPLETE_TYPES=["qa","autocomplete"];var WidgetLocation={SORT:"sort.diginetica.net"};var Session={LIST:"listSort",DRAG:"dragSort"};var AppType={SORT:"sort",SORT_QA:"sort-qa",AUTOCOMPLETE:"autocomplete",AUTOCOMPLETE_QA:"autocomplete-qa",TIME:"time"};var withElement={APP:270};var headerPadding={Y:5,X:18};var CopyButtonType={ELASTIC_QUERIES:"elasticQueries",QUERY:"query"};var CookieName={MAIN:"debugkey",QA:"debugkeyqa"};var CookieHost={MAIN:"diginetica.net"};
+  var rootElement=document.querySelector("body");var Timeout={APPLY_BUTTON:6e3,ERROR_MESSAGE:3e3};var KeyCode={ENTER:13};var RadioTemplateOption={TYPE:"type",STRATEGY:"strategy",EXTRA_STRATEGY:"extra-strategy"};var STRATEGIES=["simple","simple_strict","advanced","advanced_xname","vectors","vectors_extended","vectors_strict","vectors_advanced","multi_text","advanced_xname_test"];var EXTRA_STRATEGIES=["","zero_queries","zero_queries_predictor","zero_queries_extended","zero_queries_extended_predictor"];var SORT_TYPES=["qa","search","debug"];var AUTOCOMPLETE_TYPES=["qa","autocomplete"];var WidgetLocation={SORT:"sort.diginetica.net"};var Session={LIST:"listSort",DRAG:"dragSort"};var AppType={SORT:"sort",SORT_QA:"sort-qa",AUTOCOMPLETE:"autocomplete",AUTOCOMPLETE_QA:"autocomplete-qa",TIME:"time"};var withElement={APP:270};var headerPadding={Y:5,X:18};var CopyButtonType={ELASTIC_QUERIES:"elasticQueries",QUERY:"query"};var CookieName={MAIN:"debugkey",QA:"debugkeyqa"};var CookieHost={MAIN:"diginetica.net"};
   
   /***/ }),
   
@@ -506,7 +506,7 @@
   /* harmony export */ __webpack_require__.d(__webpack_exports__, {
   /* harmony export */   "version": () => (/* binding */ version)
   /* harmony export */ });
-  var version="v0.4.1748497225";
+  var version="v0.4.1759848072";
   
   /***/ }),
   
